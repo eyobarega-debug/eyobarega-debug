@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eyob+Arega+%F0%9F%91%8B;Computer+Science+Student+%40+AASTU;Aspiring+Full+Stack+Developer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eyob+Arega+%F0%9F%91%8B;Software+Engineering+Student+%40+AASTU;Aspiring+Full+Stack+Developer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Addis Ababa Science and Technology University (AASTU)**, currently heading into my 3rd year. I recently completed a competitive one-month summer program with **INSA (Information Network Security Agency)**, Ethiopia's development department.
+I'm a Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**.
 
 - 🔭 Building hands-on projects in Python, databases, and networking
 - 🌱 Deepening my front-end skills — HTML, CSS, JavaScript, and responsive design
@@ -33,15 +33,6 @@ I'm a Computer Science student at **Addis Ababa Science and Technology Universit
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- Front-end development & responsive web design
-- Advanced JavaScript
-- Database systems (SQL, normalization, ERD design)
-- Computer networks & data communications
 
 ---
 
