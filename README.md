@@ -32,4 +32,4 @@ Aspiring Software Engineering student at AASTU.
 ## 📫 Contact
 
 - Email: aregaeyob3@email.com
-- LinkedIn: (https://www.linkedin.com/in/eyob-arega-1b958b405/)
+- LinkedIn: https://www.linkedin.com/in/eyob-arega-1b958b405/
