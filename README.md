@@ -48,9 +48,6 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eyobarega-debug&color=blue&style=flat)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=220&section=header&text=Eyob%20Arega&fontSize=50&fontColor=ffffff"/>
-</p>
 
 </div>
 
