@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Eyob!
 
-<!--
-**eyobarega-debug/eyobarega-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Aspiring Software Engineering student at AASTU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning HTML, CSS, JavaScript and Python
+- 💻 Interested in Web Development
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠 Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Front-end Development
+- JavaScript
+- Responsive Web Design
+
+---
+
+## 📫 Contact
+
+- Email: aregaeyob3@email.com
+- LinkedIn: (https://www.linkedin.com/in/eyob-arega-1b958b405/)
