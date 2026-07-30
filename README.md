@@ -1,4 +1,8 @@
-# 👋 Hi there, I'm Eyob!
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Eyob+Arega+👋;Software+Engineering+Student;Web+Developer;Learning+%26+Building+Everyday" />
+
+</div>
 
 ## 🚀 About Me
 
