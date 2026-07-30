@@ -44,11 +44,13 @@ Aspiring Software Engineering student at AASTU.
 
 ## 📊 GitHub Stats
 
-![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+## 🔥 GitHub Streak
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=eyobarega-debug&color=blue)
 
