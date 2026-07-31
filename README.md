@@ -38,19 +38,21 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=eyobarega-debug&color=blue&style=flat)
-
-
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyobarega-debug&color=blue&style=flat" />
+</p>
 ---
 
 ## 📫 Get In Touch
