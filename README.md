@@ -36,18 +36,16 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ---
 ## 🔥 GitHub Streak
-
-<div lign="center">
-  <img src="https://github-readme-stats-baba-5faa.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p <img src="https://github-readme-stats-baba-5faa.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats-baba-5faa.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
 
 
 ---
