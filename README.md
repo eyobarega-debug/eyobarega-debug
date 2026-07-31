@@ -38,13 +38,13 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eyobarega.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-baba-5faa.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eyobarega.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-baba-5faa.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyobarega-debug&color=blue&style=flat" />
