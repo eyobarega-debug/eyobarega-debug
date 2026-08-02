@@ -37,7 +37,7 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 ---
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eyobarega-debug&theme=tokyonight&hide_border=true&cache_seconds=0" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=eyobarega-debug&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
