@@ -41,15 +41,6 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=eyobarega-debug&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-
----
 
 ## 📫 Get In Touch
 
