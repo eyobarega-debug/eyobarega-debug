@@ -6,11 +6,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyob-arega-1b958b405/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aregaeyob3@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=eyobarega-debug&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/eyobarega-debug)
 
 </div>
 
 ---
- 
+
 ## 🚀 About Me
 
 I'm a Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**.
@@ -19,6 +20,8 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 - 🌱 Deepening my front-end skills — HTML, CSS, JavaScript, and responsive design
 - 🎯 Goal: become a well-rounded **Full Stack Developer**
 - 🤝 Enjoy collaborative work — from GitHub-based group projects to student leadership
+- 💬 Ask me about: Python, React, or anything AASTU-related
+- ⚡ Fun fact: I learn best by breaking things and figuring out why
 
 ---
 
@@ -36,11 +39,53 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🔥 GitHub Streak
+
+## 📊 GitHub Stats
+
 <div align="center">
- <img src="https://github-readme-streak-stats-eight.vercel.app?user=eyobarega-debug&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eyobarega-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobarega-debug&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=eyobarega-debug&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobarega-debug&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+> ⚠️ **Note on streak accuracy:** the streak widget above calculates using UTC time, while the green squares on your profile use your local timezone. If your current streak looks "reset" even though today's square is lit, it's almost always this UTC/local mismatch — not a missing commit. Commit a little earlier in the day (well before your local midnight in UTC terms) to avoid straddling the boundary.
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eyobarega-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<!-- Replace REPO-NAME with your actual repo names to pin specific projects -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 📫 Get In Touch
 
