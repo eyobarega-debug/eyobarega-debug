@@ -62,17 +62,6 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 </div>
 
-> ⚠️ **Note on streak accuracy:** the streak widget above calculates using UTC time, while the green squares on your profile use your local timezone. If your current streak looks "reset" even though today's square is lit, it's almost always this UTC/local mismatch — not a missing commit. Commit a little earlier in the day (well before your local midnight in UTC terms) to avoid straddling the boundary.
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eyobarega-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
@@ -80,9 +69,7 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 <div align="center">
 
-<!-- Replace REPO-NAME with your actual repo names to pin specific projects -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=Class-Quest&theme=tokyonight&hide_border=true" />
 
 </div>
 
