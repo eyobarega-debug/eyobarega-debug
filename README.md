@@ -67,7 +67,7 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 <div align="center">
 
-<a href="https://github.com/eyobarega-debug/Class-Quest">
+<a href="https://class-quest-nine.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyobarega-debug&repo=Class-Quest&theme=tokyonight&hide_border=true" />
 </a>
 
