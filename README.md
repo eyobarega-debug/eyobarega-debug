@@ -25,6 +25,18 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ---
 
+## 💼 Experience & Featured Work
+
+### 🌐 Addis Show | Freelance Web Developer
+
+Worked on improving and maintaining a live website, developing features, fixing issues, and integrating backend services.
+
+**Tech:** HTML, CSS, JavaScript, Supabase, PostgreSQL, Cloudflare.
+
+[Visit Website](https://www.addisshow.com.et/)
+
+---
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
